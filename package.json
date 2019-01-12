@@ -1,0 +1,15 @@
+{
+  "name": "simple-use",
+  "version": "0.1.0",
+  "description": "help you to simple use javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "simple"
+  ],
+  "author": "dengqiaoyang",
+  "license": "ISC"
+}
