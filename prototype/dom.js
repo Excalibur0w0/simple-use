@@ -1,4 +1,7 @@
-(function () {
+"use strict"
+
+;(function () {
+  var HTMLCollection = this && this.globalThis && this.globalThis.HTMLCollection
   if (!HTMLCollection) {
     return
   }

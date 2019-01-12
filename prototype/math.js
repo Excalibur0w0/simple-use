@@ -1,4 +1,6 @@
-(function () {
+"use strict"
+
+;(function () {
   if (!Math) {
     return
   }
